@@ -1,1 +1,1 @@
-# BAMS
+# BAMS (Bank Account Management System)
