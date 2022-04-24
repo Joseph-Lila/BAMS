@@ -13,7 +13,7 @@ public class CreditCard
     {
         _interestRateManager = interestRateManager;
         Duty = 0;
-        Remainder = 0;
+        Remainder = 10000;
     }
 
     public bool Pay(decimal amount)
